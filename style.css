@@ -1,0 +1,29 @@
+.title {
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    background-color: #ff8800;
+    font-weight: bold;
+    text-align: center;
+}
+
+.img {
+    height: 300px;
+    width: 300px;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.word-link {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+}
