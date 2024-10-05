@@ -23,7 +23,8 @@
     text-align: right;
 }
 
-.word-link {
+.listText {
+    color: #000000;
+    font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
-    font-size:x-large;
 }
