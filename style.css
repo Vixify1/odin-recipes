@@ -11,20 +11,54 @@
     width: 300px;
 }
 
-.left {
-    text-align: left;
+.listText {
+    color: #000000;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.back {
+    color: #000000;
+}
+
+.top {
+    display: flex;
+    justify-content:space-between;
+}
+
+.h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bg-color {
+    background-color: #fffbc8;
+}
+
+.bg-color1 {
+    background-color: #f89567;
+}
+
+.bg-color2 {
+    background-color: #cfb24d;
 }
 
 .center {
     text-align: center;
 }
 
-.right {
-    text-align: right;
+.list {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-around;
 }
 
-.listText {
-    color: #000000;
-    font-size: x-large;
-    font-family: 'Times New Roman', Times, serif;
+.photos {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-around;
+}
+
+.wrap {
+    width: 600px;
 }
